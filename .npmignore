@@ -1,0 +1,7 @@
+src/
+test/
+examples/
+.github/
+coverage/
+.*
+*.config.js
