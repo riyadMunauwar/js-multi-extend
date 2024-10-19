@@ -1,4 +1,4 @@
-import { Extender } from 'js-multi-extend';
+const { Extender }  = require('../dist/index.umd.js');
 
 // Define base classes
 class Logger {
